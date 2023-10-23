@@ -5,4 +5,4 @@ print "Digite um outro número inteiro: "
 number2 = gets.chomp.to_i
 
 addition = number1 + number2
-puts "O resultado da adição é #{addition}."
+puts "O resultado da adição de #{number1} e #{number2} é #{addition}."
